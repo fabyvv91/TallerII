@@ -1,0 +1,2 @@
+http://www.web-developia.com/category/sistemas-de-control-de-versiones/
+http://www.marpada.net/blog/creando-un-servidor-git
